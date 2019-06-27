@@ -1,0 +1,36 @@
+.own--b-slide-article_theme_common1 {
+
+  position: absolute;
+  top: 27.4%;
+  
+  width: 100%;
+  height: 72.6%;
+
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.own--b-slide-article_theme_common1 .own--b-slide-article__header {
+
+  margin: 0;
+  padding: 1.2rem 1.2rem 1.2rem 1.2rem;
+  width: 56.4%;
+  background-color: #655751;
+
+  line-height: 1;
+  letter-spacing: 1px;
+  color: white;
+  text-transform: uppercase;
+}
+.own--b-slide-article_theme_common1 .own--b-slide-article__text {
+  
+  margin: 0;
+  margin-top: 1.25rem;
+  padding: 1.2rem;
+  width: 37.8%;
+  background-color: white;
+
+  line-height: 1;
+  letter-spacing: .2px;
+  color: #7a5852;
+}

@@ -1,0 +1,21 @@
+.own--b-list-item_theme_common1 {
+  display: flex;
+  align-items: center;
+  margin-top: .7rem;
+  line-height: 1;
+}
+.own--b-list-item_theme_common1[data-first] {
+  margin-top: 0;
+}
+.own--b-list-item_theme_common1 .own--b-list-item__label {
+  flex-shrink: 0;
+  margin: 0 .8rem 0 .4rem;
+  width: 6px;
+  height: 6px;
+  background-color: white;
+  border-radius: 50%;
+}
+.own--b-list-item_theme_common1 .own--b-list-item__text {
+  line-height: 1;
+  color: white;
+}

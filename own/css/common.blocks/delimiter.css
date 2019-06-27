@@ -1,0 +1,20 @@
+.own--b-delimiter_theme_dark1 {
+  margin: 0 1.32rem 0 1.32rem;
+  width: 1px;
+  height: 1rem;
+  background-color: #655751;
+}
+
+.own--b-delimiter_theme_light1 {
+  margin: 0 .8rem 0 .8rem;
+  width: 1px;
+  height: 1rem;
+  background-color: #cbcbcb;
+}
+
+.own--b-delimiter_theme_light2 {
+  margin: 0 .5rem 0 .5rem;
+  width: 1px;
+  height: 1rem;
+  background-color: #cbcbcb;
+}

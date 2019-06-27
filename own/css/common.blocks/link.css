@@ -1,0 +1,73 @@
+.own--b-link_theme_light1 {
+  color: white;
+  text-decoration: underline;
+}
+.own--b-link_theme_light1:hover {
+  color: white;
+}
+.own--b-link_theme_light1:visited {
+  color: white;
+  text-decoration: underline;
+}
+
+.own--b-link_theme_light2 {
+  color: white;
+}
+.own--b-link_theme_light2:hover {
+  color: white;
+}
+.own--b-link_theme_light2:visited {
+  color: white;
+}
+
+.own--b-link_theme_dark1 {
+  line-height: 1.2;
+  color: black;
+}
+.own--b-link_theme_dark1:hover {
+  color: black;
+}
+.own--b-link_theme_dark1:visited {
+  color: black;
+}
+
+.own--b-link_theme_dark2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  line-height: 1;
+  word-break: keep-all;
+  color: black;
+  text-decoration: underline;
+}
+.own--b-link_theme_dark2:hover {
+  color: black;
+}
+.own--b-link_theme_dark2:visited {
+  color: black;
+  text-decoration: underline;
+}
+
+.own--b-link_theme_dark3 {
+  color: black;
+  text-decoration: underline;
+}
+.own--b-link_theme_dark3:hover {
+  color: black;
+}
+.own--b-link_theme_dark3:visited {
+  color: black;
+  text-decoration: underline;
+}
+
+.own--b-link_theme_blue1 {
+  color: #06579f;
+  text-decoration: underline;
+}
+.own--b-link_theme_blue1:hover {
+  color: #06579f;
+}
+.own--b-link_theme_blue1:visited {
+  color: #06579f;
+  text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+.own--b-text_size_0-625rem { /* 10px if html font-size=16 */
+  font-size: .625rem;
+}
+.own--b-text_size_0-75rem { /* 12px if html font-size=16 */
+  font-size: .75rem;
+}
+.own--b-text_size_0-875rem { /* 14px if html font-size=16 */
+  font-size: .875rem;
+}
+.own--b-text_size_1rem { /* 16px if html font-size=16 */
+  font-size: 1rem;
+}
+.own--b-text_size_1-25rem { /* 20px if html font-size=16 */
+  font-size: 1.25rem;
+}
+.own--b-text_size_1-5rem { /* 24px if html font-size=16 */
+  font-size: 1.5rem;
+}
+.own--b-text_size_2rem { /* 32px if html font-size=16 */
+  font-size: 2rem;
+}
+.own--b-text_size_3-125rem { /* 50px if html font-size=16 */
+  font-size: 3.125rem;
+}
+
+.own--b-text_typeface_open-sans-bold {
+  font-family: open-sans_bold;
+}
