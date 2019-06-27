@@ -1,0 +1,15 @@
+.badge {
+  padding: .25em .5em;
+  font-weight: 500;
+  background-color: #cbcbcb;
+  color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 5%;
+}
+
+.custom-select {
+  box-shadow: none;
+  transition: none;
+}

@@ -1,0 +1,29 @@
+/* include fonts */
+
+@font-face {
+  font-family: open-sans;
+  src: url(../fonts/open-sans/open-sans_regular.ttf);
+}
+@font-face {
+  font-family: open-sans_light;
+  src: url(../fonts/open-sans/open-sans_light.ttf);
+}
+@font-face {
+  font-family: open-sans_bold;
+  src: url(../fonts/open-sans/open-sans_bold.ttf);
+}
+@font-face {
+  font-family: open-sans_extra-bold;
+  src: url(../fonts/open-sans/open-sans_extra-bold.ttf);
+}
+
+
+/* other options */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: open-sans;
+}
